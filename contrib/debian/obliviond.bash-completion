@@ -1,0 +1,3 @@
+contrib/obliviond.bash-completion	obliviond
+contrib/oblivion-cli.bash-completion	oblivion-cli
+contrib/oblivion-tx.bash-completion	oblivion-tx

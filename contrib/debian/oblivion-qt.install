@@ -1,0 +1,11 @@
+usr/local/bin/oblivion-qt usr/bin
+share/pixmaps/oblivion16.png usr/share/pixmaps
+share/pixmaps/oblivion32.png usr/share/pixmaps
+share/pixmaps/oblivion128.png usr/share/pixmaps
+share/pixmaps/oblivion256.png usr/share/pixmaps
+share/pixmaps/oblivion-testnet32.png usr/share/pixmaps
+share/pixmaps/oblivion-testnet128.png usr/share/pixmaps
+share/pixmaps/oblivion-testnet256.png usr/share/pixmaps
+debian/oblivion-qt.desktop usr/share/applications
+debian/oblivion-testnet-qt.desktop usr/share/applications
+debian/oblivion-qt.protocol usr/share/kde4/services/
