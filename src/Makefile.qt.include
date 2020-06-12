@@ -311,6 +311,7 @@ RES_ICONS = \
   qt/res/icons/hd_disabled.png \
   qt/res/icons/hd_enabled.png \
   qt/res/icons/history.png \
+  qt/res/icons/staking.png \
   qt/res/icons/sign.png \
   qt/res/icons/multisig.png \
   qt/res/icons/info.png \

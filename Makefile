@@ -14,7 +14,7 @@
 
 
 
-# Copyright (c) 2012-2019 The Oblivion developers
+# Copyright (c) 2019-2020 The Oblivion developers
 # Distributed under the MIT software license, see the accompanying
 # file COPYING or http://www.opensource.org/licenses/mit-license.php.
 

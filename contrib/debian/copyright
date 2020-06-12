@@ -1,11 +1,11 @@
 Upstream-Name: Oblivion
 Upstream-Contact: Stichting Oblivion Foundation <foundation@oblivion.net>
-Source: https://github.com/oblivioncoin/oblivion
+Source: https://github.com/vnetizen/oblivion
 
 Files: *
 Copyright: 2012-2019, Oblivion Developers
 License: Expat
-Comment: The Oblivion Developers encompasses the current developers listed on https://github.com/oblivioncoin/oblivion,
+Comment: The Oblivion Developers encompasses the current developers listed on https://github.com/vnetizen/oblivion,
          as well as the numerous contributors to the project.
 
 Files: debian/*

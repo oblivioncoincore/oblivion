@@ -1,4 +1,4 @@
-// Copyright (c) 2012-2019 The Oblivion developers
+// Copyright (c) 2019-2020 The Oblivion developers
 // Distributed under conditional MIT/X11 open source software license
 // see the accompanying file COPYING
 #ifndef OBLIVION_CHECKPOINTSYNC_H

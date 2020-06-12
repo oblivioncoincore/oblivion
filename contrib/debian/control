@@ -26,8 +26,8 @@ Build-Depends: debhelper,
  libzmq3-dev
 Standards-Version: 3.9.2
 Homepage: https://www.oblivion.net/
-Vcs-Git: git://github.com/oblivioncoin/oblivion.git
-Vcs-Browser: https://github.com/oblivioncoin/oblivion
+Vcs-Git: git://github.com/vnetizen/oblivion.git
+Vcs-Browser: https://github.com/vnetizen/oblivion
 
 Package: obliviond
 Architecture: any
